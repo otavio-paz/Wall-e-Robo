@@ -19,3 +19,7 @@
 - 2x Servo Motor 9g SG90
 - Chave gangorra
 - Jumpers MxM, MxF e FxF
+
+# Versões da programação
+
+[Wall-E com apenas 3 sensores](https://github.com/otavio-paz/Wall-e-Robo/tree/main/WallE_3S)
