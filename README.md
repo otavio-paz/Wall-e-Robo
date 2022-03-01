@@ -1,6 +1,8 @@
 # Wall-e - Robô Seguidor de Linha e de Resgate
 
-![image](https://i.imgur.com/iut3hEt.png)
+Inspirados pelo filme (e fofura) do Wall-e, minha equipe resolveu criar o robô seguidor de linha e resgate com suas características para a competição interna de Projeto Integrador da nossa instituição. O resultado final está abaixo.
+
+![Wall-E](https://i.imgur.com/iut3hEt.png)
 
 # Descrição do Projeto
 
@@ -22,4 +24,6 @@
 
 # Versões da programação
 
-[Wall-E com apenas 3 sensores](https://github.com/otavio-paz/Wall-e-Robo/tree/main/WallE_3S)
+[Wall-e com apenas 3 sensores (vers. digital)](https://github.com/otavio-paz/Wall-e-Robo/tree/main/WallE_3S)  
+[Wall-e com apenas 3 sensores (vers. analógico)](https://github.com/otavio-paz/Wall-e-Robo/tree/main/WallE_3S_Analogico)  
+
