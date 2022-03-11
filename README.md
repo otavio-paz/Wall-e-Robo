@@ -27,3 +27,8 @@ Inspirados pelo filme (e fofura) do Wall-e, minha equipe resolveu criar o robô 
 [Wall-e com apenas 3 sensores (vers. digital)](https://github.com/otavio-paz/Wall-e-Robo/tree/main/WallE_3S)  
 [Wall-e com apenas 3 sensores (vers. analógico)](https://github.com/otavio-paz/Wall-e-Robo/tree/main/WallE_3S_Analogico)  
 
+# Tecnologias utilizadas
+
+- Arduino IDE
+- C++
+- Biblioteca Servo.h
