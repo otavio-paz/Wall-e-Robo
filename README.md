@@ -1,36 +1,36 @@
-# Wall-e - Robô Seguidor de Linha e de Resgate
+# Wall-e - Line Follower and Rescue Robot
 
-Inspirados pelo filme (e fofura) do Wall-e, minha equipe resolveu criar o robô seguidor de linha e resgate com suas características para a competição interna de Projeto Integrador da nossa instituição. O resultado final está abaixo.
+Inspired by the movie (and cuteness) of Wall-e, my team decided to create the line follower and rescue robot with its characteristics for our institution's internal Integrative Project competition. The final result is below.
 
 ![Wall-E](https://i.imgur.com/iut3hEt.png)
 
-# Descrição do Projeto
+# Project Description
 
-🤖 Robô seguidor de linha e de resgate com base em Arduino. Desenvolvido por alunos do Técnico de Automação Industrial no IFSP - Salto.
+🤖 Line follower and rescue robot based on Arduino. Developed by students of Industrial Automation at IFSP - Salto.
 
-**Criadores:** Otávio Paz, Carla Daniela e Raphael D'Luca.
+**Creators:** Otávio Paz, Carla Daniela e Raphael D'Luca.
 
-# Componentes principais
+# Main Components
 
-- 4x Motor DC 3-6V com roda e redutor
-- 5x sensor TCRT5000
+- 4x DC Motor 3-6V with wheel and reducer
+- 5x TCRT5000 sensor
 - Arduino Uno
-- Ponte H L298N
-- Módulo Bluetooth HC-06
-- Bateria LiPo 3s 1000mAh 11.1V
-- 2x Servo Motor 9g SG90
-- Chave gangorra
-- Jumpers MxM, MxF e FxF
+- L298N H-Bridge
+- HC-06 Bluetooth module
+- LiPo battery 3s 1000mAh 11.1V
+- 2x SG90 9g Servo Motor
+- Toggle switch
+- MxM, MxF, and FxF Jumpers
 
-# Versões da programação
+# Programming Versions
 
-[Wall-e com apenas 3 sensores (vers. digital)](https://github.com/otavio-paz/Wall-e-Robo/tree/main/WallE_3S)  
-[Wall-e com apenas 3 sensores (vers. analógico)](https://github.com/otavio-paz/Wall-e-Robo/tree/main/WallE_3S_Analogico)  
-[Wall-e com 5 sensores (vers. analógico](https://github.com/otavio-paz/Wall-e-Robo/tree/main/WallE_5S_Analogico)
-[Wall-e com 5 sensores (vers. 2 analógico](https://github.com/otavio-paz/Wall-e-Robo/tree/main/WallE_5S_Analogico_v2)
+[Wall-e with only 3 sensors (digital ver.)](https://github.com/otavio-paz/Wall-e-Robo/tree/main/WallE_3S)  
+[Wall-e with only 3 sensors (analog ver.)](https://github.com/otavio-paz/Wall-e-Robo/tree/main/WallE_3S_Analogico)  
+[Wall-e with 5 sensors (analog ver.)](https://github.com/otavio-paz/Wall-e-Robo/tree/main/WallE_5S_Analogico)
+[Wall-e with 5 sensors (2 analog ver.)](https://github.com/otavio-paz/Wall-e-Robo/tree/main/WallE_5S_Analogico_v2)
 
-# Tecnologias utilizadas
+# Technologies Used
 
 - Arduino IDE
 - C++
-- Biblioteca Servo.h
+- Servo.h Library
